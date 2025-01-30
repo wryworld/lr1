@@ -1,0 +1,36 @@
+body{
+	background-color: #f3eeee;
+	font-family: 'Gilroy', sans-serif;
+	
+}
+.main{
+    text-align: center;
+}
+a{
+    
+    text-decoration: none;
+    color:rgb(177, 145, 228)
+}
+
+a:hover{
+    color: pink;
+}
+
+ul{
+    font-size: 17px;
+}
+.content{
+    font-size: 25px;
+}
+.content_text{
+font-size: 16px;
+}
+#text{
+    margin-left: 25px;
+    margin-top: 20px;
+    margin-bottom: 35px;
+}
+.line{
+    border-top: 1px solid #242424; 
+    margin: 25px 0;
+}
